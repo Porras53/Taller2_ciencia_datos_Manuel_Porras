@@ -1,0 +1,255 @@
+﻿Puesto,Territorio,Superficie (km²)
+-,Planeta Tierra,510 072 000
+-,Océanos,359 685 360
+-,Continentes,150 386 640
+1,Rusia,17 098 246
+-,Antártida,14 000 000
+2,Canadá,9 984 670
+3,Estados Unidos,9 833 517
+4,China,9 596 960
+5,Brasil,8 515 767
+6,Australia,7 741 220
+7,India,3 287 263
+8,Argentina,2 780 400
+9,Kazajistán,2 724 900
+10,Argelia,2 381 741
+11,República Democrática del Congo,2 344 858
+-,Reino de Dinamarca,2 192 472
+-,Groenlandia,2 166 086
+12,Arabia Saudita,2 149 690
+13,México,1 964 375
+14,Indonesia,1 904 569
+15,Sudán,1 861 484
+16,Libia,1 759 540
+17,Irán,1 648 195
+18,Mongolia,1 564 116
+19,Perú,1 285 216
+20,Chad,1 284 000
+21,Níger,1 267 000
+22,Angola,1 246 700
+23,Malí,1 240 192
+24,Sudáfrica,1 219 090
+25,Colombia,1 141 748
+26,Etiopía,1 104 300
+27,Bolivia,1 098 581
+28,Mauritania,1 030 700
+29,Egipto,1 001 450
+30,Tanzania,947 300
+31,Nigeria,923 768
+32,Venezuela,916 445
+33,Namibia,824 292
+34,Mozambique,799 380
+35,Pakistán,796 095
+36,Turquía,783 562
+37,Chile,756 102
+38,Zambia,752 618
+39,Birmania,676 578
+40,Afganistán,652 230
+41,Sudán del Sur,644 329
+42,Somalia,637 657
+43,República Centroafricana,622 984
+44,Ucrania,603 550
+45,Madagascar,587 041
+46,Botsuana,581 730
+47,Kenia,580 367
+48,Francia,551 695
+49,Yemen,527 968
+50,Tailandia,513 120
+51,España,505 370
+52,Turkmenistán,488 100
+53,Camerún,475 440
+54,Papúa Nueva Guinea,462 840
+55,Suecia,450 295
+56,Uzbekistán,447 400
+57,Marruecos,446 550
+58,Irak,438 317
+59,Paraguay,406 752
+60,Zimbabue,390 757
+61,Japón,377 975
+62,Alemania,357 580
+63,República del Congo,342 000
+64,Finlandia,338 145
+65,Vietnam,331 210
+66,Malasia,329 847
+67,Noruega,323 802
+68,Costa de Marfil,322 463
+69,Polonia,312 685
+70,Omán,309 500
+71,Italia,301 340
+72,Filipinas,300 000
+73,Burkina Faso,274 200
+74,Nueva Zelanda,267 710
+75,Gabón,267 667
+,Sahara Occidental,266 000
+76,Ecuador,256 370
+77,Guinea,245 857
+78,Reino Unido,243 610
+79,Uganda,241 038
+80,Ghana,238 533
+81,Rumania,238 391
+82,Laos,236 800
+83,Guyana,214 969
+84,Bielorrusia,207 600
+85,Kirguistán,199 951
+86,Senegal,196 722
+87,Siria,185 180
+88,Camboya,181 035
+89,Uruguay,176 215
+90,Surinam,163 820
+91,Túnez,163 610
+92,Nepal,147 181
+93,Bangladés,143 998
+94,Tayikistán,143 100
+95,Grecia,131 957
+96,Nicaragua,130 370
+97,Corea del Norte,120 538
+98,Malaui,118 484
+99,Eritrea,117 600
+100,Benín,112 622
+101,Honduras,112 492
+102,Liberia,111 369
+103,Bulgaria,110 879
+104,Cuba,109 884
+105,Guatemala,108 889
+106,Islandia,103 000
+107,Corea del Sur,100 210
+108,Hungría,93 028
+109,Portugal,92 212
+110,Jordania,89 342
+111,Serbia,88 361
+112,Azerbaiyán,86 600
+113,Austria,83 871
+114,Emiratos Árabes Unidos,83 600
+115,República Checa,78 867
+116,Panamá,75 517
+117,Sierra Leona,71 740
+118,Irlanda,70 273
+119,Georgia,69 700
+120,Sri Lanka,65 610
+121,Lituania,65 300
+122,Letonia,64 589
+-,Svalbard,62 045
+123,Togo,56 785
+124,Croacia,56 594
+125,Bosnia y Herzegovina,51 197
+126,Costa Rica,51 179
+127,Eslovaquia,49 035
+128,República Dominicana,48 670
+129,Estonia,45 228
+130,Dinamarca,43 094
+131,Países Bajos,41 865
+132,Suiza,41 277
+133,Bután,38 394
+134,Guinea-Bisáu,36 125
+-,República de China (Taiwán),35 980
+135,Moldavia,33 851
+136,Bélgica,30 528
+137,Lesoto,30 355
+138,Armenia,29 743
+139,Islas Salomón,28 896
+140,Albania,28 748
+141,Guinea Ecuatorial,28 051
+142,Burundi,27 830
+143,Haití,27 750
+144,Ruanda,26 338
+145,Macedonia del Norte,25 713
+146,Yibuti,23 200
+147,Belice,22 966
+148,El Salvador,21 041
+149,Israel,20 770
+150,Eslovenia,20 273
+-,Nueva Caledonia,18 575
+151,Fiyi,18 274
+152,Kuwait,17 818
+153,Suazilandia,17 364
+154,Timor Oriental,14 874
+155,Bahamas,13 880
+156,Montenegro,13 812
+157,Vanuatu,12 189
+-,Islas Malvinas,12 173
+158,Catar,11 571
+159,Gambia,11 295
+160,Jamaica,10 991
+-,Kosovo,10 887
+161,Líbano,10 400
+162,Chipre,9251
+-,Puerto Rico,9104
+-,Tierras Australes y Antárticas Francesas,7668
+-,Palestina,6020
+163,Brunéi,5765
+164,Trinidad y Tobago,5128
+-,Polinesia Francesa,4167
+165,Cabo Verde,4033
+-,Islas Georgias del Sur y Sandwich del Sur,3903
+166,Samoa,2831
+167,Luxemburgo,2586
+168,Mauricio,2040
+169,Comoras,1862
+-,Islas Feroe,1393
+-,Hong Kong,1104
+170,Santo Tomé y Príncipe,964
+-,Islas Turcas y Caicos,948
+171,Kiribati,811
+172,Baréin,760
+173,Dominica,751
+174,Tonga,747
+175,Estados Federados de Micronesia,702
+176,Singapur,697
+177,Santa Lucía,616
+-,Isla de Man,572
+-,Guam,544
+178,Andorra,468
+-,Islas Marianas del Norte,464
+179,Palaos,459
+180,Seychelles,455
+-,Curazao,444
+181,Antigua y Barbuda,443
+182,Barbados,430
+-,Islas Heard y McDonald,412
+183,San Vicente y las Granadinas,389
+-,Svalbard y Jan Mayen,377
+-,Islas Vírgenes de los Estados Unidos,346
+184,Granada,344
+185,Malta,316
+-,"Santa Elena, Ascensión y Tristán de Acuña",308
+186,Maldivas,298
+-,Islas Caimán,264
+187,San Cristóbal y Nieves,261
+-,Niue,260
+-,Acrotiri y Dhekelia,254
+-,San Pedro y Miquelón,242
+-,Islas Cook,236
+-,Samoa Americana,199
+188,Islas Marshall,181
+-,Aruba,180
+189,Liechtenstein,160
+-,Islas Vírgenes Británicas,151
+-,Wallis y Futuna,142
+-,Isla de Navidad,135
+-,Jersey,116
+-,Montserrat,102
+-,Anguila,91
+-,Guernsey,78
+190,San Marino,61
+-,Territorio Británico del Océano Índico,60
+-,San Martín,54
+-,Bermudas,54
+-,Isla Bouvet,49
+-,Islas Pitcairn,47
+-,Isla Norfolk,36
+-,Islas ultramarinas de los Estados Unidos,34
+-,San Martín,34
+-,Macao,28
+191,Tuvalu,26
+192,Nauru,21
+-,San Bartolomé,21
+-,Islas Cocos,14
+-,Tokelau,12
+-,Gibraltar,7
+-,Isla Clipperton,6
+-,Islas Ashmore y Cartier,5
+-,Islas del Mar del Coral,3
+193,Mónaco,2
+194,Ciudad del Vaticano,"0,44"
+,,
+https://www.downloadexcelfiles.com/,,
